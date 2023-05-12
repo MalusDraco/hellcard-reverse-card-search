@@ -2,7 +2,7 @@
 Reverse search Hellcard card upgrade paths
 
 Instructions:
-Method 1: Install Python
+Method 1: Install Python\n
 1: Install python from [w](https://www.python.org)
 2: Download all files, put all into one folder
 3: Run main.py
