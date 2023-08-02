@@ -5,7 +5,7 @@ from card import Card
 
 cardName = ''
 card = Card.cardDictionary
-print('Last updated (5/11/23)')
+print('Last updated (8/2/23)')
 print('''
 ###################################################
 #   _____  ______          _____  __  __ ______   #
@@ -26,8 +26,8 @@ print('3: Do not include apostophes (This thing) ======> [ \' ]')
 print('4: Any special characters are replaced with their closest counterpart [¡No Pasarán!] becomes [No Pasaran]')
 print('5: Do not include exclamation points [¡No Pasarán!] becomes [No Pasaran]')
 print()
-print('If Hellcard Devs want to use or adopt some of this code, credit me Dragon#1281')
-print('If I missed any card, do let me know on Discord(Dragon#1281)')
+print('If Hellcard Devs want to use or adopt some of this code, credit me draco_malus')
+print('If I missed any card, do let me know on Discord(draco_malus)')
 print()
 print('###################################################')
 print()
