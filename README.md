@@ -1,5 +1,6 @@
 # hellcard-reverse-card-search
 Reverse search Hellcard card upgrade paths
+Last updated 8/2/23
 
 Instructions:  
 Method 1: Install Python  

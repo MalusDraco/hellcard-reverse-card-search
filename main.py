@@ -28,6 +28,8 @@ print('5: Do not include exclamation points [¡No Pasarán!] becomes [No Pasaran
 print()
 print('If Hellcard Devs want to use or adopt some of this code, credit me draco_malus')
 print('If I missed any card, do let me know on Discord(draco_malus)')
+print('If game updates, do check for a new version at the github')
+print('https://github.com/Dragonslayer820/hellcard-reverse-card-search')
 print()
 print('###################################################')
 print()
