@@ -1,11 +1,12 @@
 import mageCards
 import warriorCards
 import rogueCards
+import testCards
 from card import Card
 
 cardName = ''
 card = Card.cardDictionary
-print('Last updated (8/2/23)')
+print('Last updated (8/6/23)')
 print('''
 ###################################################
 #   _____  ______          _____  __  __ ______   #
@@ -28,8 +29,6 @@ print('5: Do not include exclamation points [¡No Pasarán!] becomes [No Pasaran
 print()
 print('If Hellcard Devs want to use or adopt some of this code, credit me draco_malus')
 print('If I missed any card, do let me know on Discord(draco_malus)')
-print('If game updates, do check for a new version at the github')
-print('https://github.com/Dragonslayer820/hellcard-reverse-card-search')
 print()
 print('###################################################')
 print()
@@ -40,8 +39,7 @@ while True:
 	if cardName == 'q':
 		break
 	try:
-		print()
-		card[cardName].printBuildPathBack()
+		card[cardName].recPrintBuildPath()
 		print()
 		print('###################################################')
 	except KeyError:

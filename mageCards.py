@@ -43,7 +43,7 @@ Meditation = Card("Meditation")
 
 Obsidian_Dust = Card("Obsidian Dust")
 
-Sucker_Bolt = Card("Sucker_Bolt")
+Sucker_Bolt = Card("Sucker Bolt")
 Sucker_Bolt.getsBuiltFrom(Magic_Bolt)
 
 Swell = Card("Swell")
